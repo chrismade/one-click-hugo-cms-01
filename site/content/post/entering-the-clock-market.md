@@ -6,7 +6,7 @@ description: >-
   which wakes you up every morning ?
 image: /img/saba_automatic_h.jpg
 ---
-We offer a folding alarm clock from Saba with the name Automatic H.
+We offer a flip clock with alarm function from Saba with the name Automatic H.
 
 Very good optical and technical condition. Radio can be receive medium wave and FM in good quality.
 
