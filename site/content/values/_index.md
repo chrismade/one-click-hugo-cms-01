@@ -40,6 +40,6 @@ values:
   - heading: protect privacy
     text: >-
       privacy matters to us - we don't share any data with any 3rd party -
-      trusted or not
+      trusted or not - worldwide, not just limited to the European Union
 ---
 
